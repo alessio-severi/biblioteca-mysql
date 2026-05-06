@@ -14,7 +14,7 @@ Il database gestisce il catalogo bibliografico, l'inventario fisico delle copie,
 - [`ddl_trigger.sql`](ddl_trigger.sql) — quattro trigger per la gestione automatica degli stati delle copie
 - [`ddl_stored_procedures.sql`](ddl_stored_procedures.sql) — 24 stored procedure che coprono catalogo, inventario, prestiti e gestione utenti
 - [`query_biblioteca.sql`](query_biblioteca.sql) — inserimenti e chiamate dimostrative a tutte le stored procedure
-- [documentazione_biblioteca_mysql.pdf](documentazione_biblioteca_mysql.pdf) — documentazione completa: struttura tabelle, trigger, architettura permessi e matrice delle stored procedure per ruolo
+- [`documentazione_biblioteca_mysql.pdf`](documentazione_biblioteca_mysql.pdf) — documentazione completa: struttura tabelle, trigger, architettura permessi e matrice delle stored procedure per ruolo
 
 ## Funzionalità principali
 
