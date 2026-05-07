@@ -49,5 +49,5 @@ SOURCE query_biblioteca.sql;
 
 ## Licenza
 
-© 2025 Alessio Severi — licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+© 2026 Alessio Severi — licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 See the [LICENSE](LICENSE) file for details.
